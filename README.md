@@ -20,4 +20,5 @@ this script create account with random name get by the web and doesn't use rando
 
 ### Credits
 [Matteo Gaito](https://github.com/matteogaito)
+<br>
 [FeezyHendrix](https://github.com/FeezyHendrix)
